@@ -1,0 +1,7 @@
+/dist/
+/bin/
+/obj/
+/.vs/
+*.exe
+*.pdb
+*.user
